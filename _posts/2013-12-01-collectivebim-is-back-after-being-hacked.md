@@ -6,7 +6,7 @@ author: michael
 comments: true
 categories: [none]
 ---
-<img class="alignnone size-large wp-image-1156" alt="hacked" src="http://collectivebim.com/wp-content/uploads/2013/12/hacked-840x472.jpg" width="840" height="472" />
+<img class="alignnone size-large wp-image-1156" alt="hacked" src="/images/2013/12/hacked-840x472.jpg" width="840" height="472" />
 
 &nbsp;
 

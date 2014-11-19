@@ -11,7 +11,7 @@ categories: [Analysis, BIM, Coordination, IFC, Solibri]
 <a href="http://www.solibri.com/solibri-model-checker.html">Solibri Model Checker</a> is not an authoring tool, but merely an awesome "model checker". Like <a href="http://usa.autodesk.com/navisworks/">Navisworks</a> it does clash detection and model comparing, but unlike Navisworks it takes advantage of the information embedded within the building information models for more than just clash detection. As an architect and now a BIM specialist, there are things that Solibri Model Checker can check for, if set up properly, that is invaluable for a firm that participates in BIM.
 
 &nbsp;
-<h3><a href="http://collectivebim.com/wp-content/uploads/2013/01/SMC-Overview.jpg"><img class="alignnone size-large wp-image-229" alt="SMC Overview" src="http://collectivebim.com/wp-content/uploads/2013/01/SMC-Overview-840x484.jpg" width="840" height="484" /></a></h3>
+<h3><a href="/images/2013/01/SMC-Overview.jpg"><img class="alignnone size-large wp-image-229" alt="SMC Overview" src="/images/2013/01/SMC-Overview-840x484.jpg" width="840" height="484" /></a></h3>
 &nbsp;
 
 [divider top="1"]
@@ -51,19 +51,19 @@ When imported into Solibri Model Checker, there are three ways to view the struc
 
 <strong>Containment Hierarchy</strong>- Displays elements by Model (given a discipline), then by Level, then by IFC Object Type, then by Family Name, then by Item.
 
-<a href="http://collectivebim.com/wp-content/uploads/2012/12/SMC-Containment-Hierarchy.jpg"><img class="alignnone size-full wp-image-101" alt="SMC Containment Hierarchy" src="http://collectivebim.com/wp-content/uploads/2012/12/SMC-Containment-Hierarchy.jpg" width="599" height="816" /></a>
+<a href="/images/2012/12/SMC-Containment-Hierarchy.jpg"><img class="alignnone size-full wp-image-101" alt="SMC Containment Hierarchy" src="/images/2012/12/SMC-Containment-Hierarchy.jpg" width="599" height="816" /></a>
 
 &nbsp;
 
 <strong>Component Hierarchy</strong> - Displays elements by IFC Object Type, then Family Name, then Item.
 
-<a href="http://collectivebim.com/wp-content/uploads/2012/12/SMC-Component-Hierarchy.jpg"><img class="alignnone size-full wp-image-100" alt="SMC Component Hierarchy" src="http://collectivebim.com/wp-content/uploads/2012/12/SMC-Component-Hierarchy.jpg" width="598" height="818" /></a>
+<a href="/images/2012/12/SMC-Component-Hierarchy.jpg"><img class="alignnone size-full wp-image-100" alt="SMC Component Hierarchy" src="/images/2012/12/SMC-Component-Hierarchy.jpg" width="598" height="818" /></a>
 
 &nbsp;
 
 <strong>Layer Hierarchy</strong> - Displays elements by Layer, then by IFC Object Type, then by Item. One issue noticed with this view is that <a href="http://www.solibri.com/solibri-model-checker.html">Solibri Model Checker</a> does not merge similar layers of different models into the same folder. This may be a bug in the current version though.
 
-<a href="http://collectivebim.com/wp-content/uploads/2012/12/SMC-Layer-Hierarchy.jpg"><img class="alignnone size-full wp-image-105" alt="SMC Layer Hierarchy" src="http://collectivebim.com/wp-content/uploads/2012/12/SMC-Layer-Hierarchy.jpg" width="599" height="819" /></a>
+<a href="/images/2012/12/SMC-Layer-Hierarchy.jpg"><img class="alignnone size-full wp-image-105" alt="SMC Layer Hierarchy" src="/images/2012/12/SMC-Layer-Hierarchy.jpg" width="599" height="819" /></a>
 
 &nbsp;
 
@@ -77,7 +77,7 @@ In addition to the lack of knowledge out there, I think the slow adoption of Sol
 
 <a href="http://www.solibri.com/solibri-model-checker.html">Solibri Model Checker</a> Classifications are defined just like how <a href="http://usa.autodesk.com/navisworks/">Navisworks</a> defines Search Sets, by selecting by specific objects properties.
 
-<a href="http://collectivebim.com/wp-content/uploads/2012/12/SMC-Info-Panel.jpg"><img class="alignnone size-full wp-image-102" alt="SMC Info Panel" src="http://collectivebim.com/wp-content/uploads/2012/12/SMC-Info-Panel.jpg" width="460" height="404" /></a>
+<a href="/images/2012/12/SMC-Info-Panel.jpg"><img class="alignnone size-full wp-image-102" alt="SMC Info Panel" src="/images/2012/12/SMC-Info-Panel.jpg" width="460" height="404" /></a>
 
 &nbsp;
 
@@ -87,7 +87,7 @@ In addition to the lack of knowledge out there, I think the slow adoption of Sol
 <h3>Classification</h3>
 When setting up custom Classifications, which is easier than setting up search sets in <a href="http://usa.autodesk.com/navisworks/">Navisworks</a>, <a href="http://www.solibri.com/solibri-model-checker.html">Solibri Model Checker</a> gives you a list of elements that were and were not Classified by your filter rules. Examples of Classification that you would create are like the following:
 
-<a href="http://collectivebim.com/wp-content/uploads/2012/12/SMC-Classification-Panel.jpg"><img class="alignnone size-full wp-image-99" alt="SMC Classification Panel" src="http://collectivebim.com/wp-content/uploads/2012/12/SMC-Classification-Panel.jpg" width="458" height="334" /></a>
+<a href="/images/2012/12/SMC-Classification-Panel.jpg"><img class="alignnone size-full wp-image-99" alt="SMC Classification Panel" src="/images/2012/12/SMC-Classification-Panel.jpg" width="458" height="334" /></a>
 
 &nbsp;
 
@@ -97,7 +97,7 @@ When setting up custom Classifications, which is easier than setting up search s
 <h3>Model Checking - Rules</h3>
 <a href="http://www.solibri.com/solibri-model-checker.html">Solibri Model Checker</a> then uses Rulesets to check for things. Some Rulesets allow you to select by Component (IFC) while others allow you to select only by Classification. There are even some that allow you to put both together. This inconsistency is being address by Solibri as they are continuously updating the Rulesets.
 
-<img class="alignnone size-full wp-image-108" alt="SMC Rulesets" src="http://collectivebim.com/wp-content/uploads/2012/12/SMC-Rulesets.png" width="533" height="907" />
+<img class="alignnone size-full wp-image-108" alt="SMC Rulesets" src="/images/2012/12/SMC-Rulesets.png" width="533" height="907" />
 
 &nbsp;
 
@@ -111,9 +111,9 @@ These Rulesets are what set Solibri Model Checker apart from any other model a
 <h3>Model Checking - Parameters</h3>
 The Rulesets have very specific parameters built in that are very flexible for many different scenarios. The Ruleset Parameters below are for checking for elements within a door swing and for egress analysis.
 
-<img class="alignnone size-full wp-image-114" alt="SMC Ruleset Parameters" src="http://collectivebim.com/wp-content/uploads/2012/12/SMC-Ruleset-Parameters.png" width="768" height="472" />
+<img class="alignnone size-full wp-image-114" alt="SMC Ruleset Parameters" src="/images/2012/12/SMC-Ruleset-Parameters.png" width="768" height="472" />
 
-<a href="http://collectivebim.com/wp-content/uploads/2012/12/SMC-Ruleset-Parameters-2.png"><img class="alignnone size-full wp-image-113" alt="SMC Ruleset Parameters 2" src="http://collectivebim.com/wp-content/uploads/2012/12/SMC-Ruleset-Parameters-2.png" width="753" height="885" /></a>
+<a href="/images/2012/12/SMC-Ruleset-Parameters-2.png"><img class="alignnone size-full wp-image-113" alt="SMC Ruleset Parameters 2" src="/images/2012/12/SMC-Ruleset-Parameters-2.png" width="753" height="885" /></a>
 
 &nbsp;
 
@@ -121,11 +121,11 @@ The Rulesets have very specific parameters built in that are very flexible for m
 <h3>Results - Annotating</h3>
 Using the Door swing as an example, <a href="http://www.solibri.com/solibri-model-checker.html">Solibri Model Checker</a> takes longer with finding issues than <a href="http://usa.autodesk.com/navisworks/">Navisworks</a>, but Solibri Model Checker is isolating the elements involved with the issue AND annotating it. The objects that are within the required area in front of the door are projected down onto a plane and Solibri Model Checker strikes dimensions to both elements from the door. You will notice that just because you only have 3 elements showing, your orientation in the building is not lost like in Navisworks. Solibri Model Checker slices the model at the building levels and gives you a line drawing of every floor. It also labels all Areas/Rooms and Grids. You can then add your own annotations in 3d space.
 
-<a href="http://collectivebim.com/wp-content/uploads/2013/01/SMC-01.jpg"><img class="alignnone size-large wp-image-230" alt="SMC 01" src="http://collectivebim.com/wp-content/uploads/2013/01/SMC-01-840x550.jpg" width="840" height="550" /></a>
+<a href="/images/2013/01/SMC-01.jpg"><img class="alignnone size-large wp-image-230" alt="SMC 01" src="/images/2013/01/SMC-01-840x550.jpg" width="840" height="550" /></a>
 
 When you are ready to save the issue, you create a slide which saves your orientation of the model, hidden elements, and added annotations.
 
-<a href="http://collectivebim.com/wp-content/uploads/2012/12/SMC-Results.jpg"><img class="alignnone size-full wp-image-107" alt="SMC Results" src="http://collectivebim.com/wp-content/uploads/2012/12/SMC-Results.jpg" width="424" height="269" /></a>
+<a href="/images/2012/12/SMC-Results.jpg"><img class="alignnone size-full wp-image-107" alt="SMC Results" src="/images/2012/12/SMC-Results.jpg" width="424" height="269" /></a>
 
 &nbsp;
 
@@ -135,7 +135,7 @@ When you are ready to save the issue, you create a slide which saves your orien
 <h3>Results - Tracking</h3>
 The slide has properties of its own as it can track Decisions, Comments, Locations, Date slide created, Status, and Responsibilities.
 
-<a href="http://collectivebim.com/wp-content/uploads/2013/01/SMC-Issue-Details.jpg"><img class="alignnone size-full wp-image-232" alt="SMC Issue Details" src="http://collectivebim.com/wp-content/uploads/2013/01/SMC-Issue-Details.jpg" width="404" height="584" /></a> <img class="alignnone size-full wp-image-103" alt="SMC Issue Details 02" src="http://collectivebim.com/wp-content/uploads/2012/12/SMC-Issue-Details-02.jpg" width="406" height="590" />
+<a href="/images/2013/01/SMC-Issue-Details.jpg"><img class="alignnone size-full wp-image-232" alt="SMC Issue Details" src="/images/2013/01/SMC-Issue-Details.jpg" width="404" height="584" /></a> <img class="alignnone size-full wp-image-103" alt="SMC Issue Details 02" src="/images/2012/12/SMC-Issue-Details-02.jpg" width="406" height="590" />
 
 &nbsp;
 
@@ -145,7 +145,7 @@ The slide has properties of its own as it can track Decisions, Comments, Locatio
 <h3>Results - Presenting</h3>
 These slides can then be added to a "Presentation" and you can play through the slides like a slide show.
 
-<a href="http://collectivebim.com/wp-content/uploads/2013/01/SMC-Presentation.jpg"><img class="alignnone size-full wp-image-231" alt="SMC Presentation" src="http://collectivebim.com/wp-content/uploads/2013/01/SMC-Presentation.jpg" width="396" height="929" /></a>
+<a href="/images/2013/01/SMC-Presentation.jpg"><img class="alignnone size-full wp-image-231" alt="SMC Presentation" src="/images/2013/01/SMC-Presentation.jpg" width="396" height="929" /></a>
 
 &nbsp;
 
@@ -155,7 +155,7 @@ This Presentation can then be reported out as a pdf and csv doc with customizabl
 
 In addition to the rulesets, you can also do an Information Takeoff and Report it.
 
-<a href="http://collectivebim.com/wp-content/uploads/2013/01/SMC-Report.jpg"><img class="alignnone size-full wp-image-234" alt="SMC Report" src="http://collectivebim.com/wp-content/uploads/2013/01/SMC-Report.jpg" width="751" height="605" /></a>
+<a href="/images/2013/01/SMC-Report.jpg"><img class="alignnone size-full wp-image-234" alt="SMC Report" src="/images/2013/01/SMC-Report.jpg" width="751" height="605" /></a>
 
 &nbsp;
 

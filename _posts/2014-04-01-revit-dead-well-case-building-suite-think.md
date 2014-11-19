@@ -12,7 +12,7 @@ As the release of Revit 2015 still leaves a sour taste in people's mouths, many 
 
 &nbsp;
 
-<img class="size-full wp-image-1311 aligncenter" alt="CASE BS" src="http://collectivebim.com/wp-content/uploads/2014/04/CASEBS.jpg" width="362" height="216" />
+<img class="size-full wp-image-1311 aligncenter" alt="CASE BS" src="/images/2014/04/CASEBS.jpg" width="362" height="216" />
 
 &nbsp;
 <h2>Introducing The CASE BS Tools</h2>

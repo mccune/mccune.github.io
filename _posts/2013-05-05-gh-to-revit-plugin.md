@@ -122,7 +122,7 @@ With most of the use cases out on the table, let's take a look at their performa
 &nbsp;
 <h3>Speed</h3>
 One of the biggest and most apparent difference between them all are the speeds that they transfer the geometry over from Grasshopper to Revit. Using the same data set as in the previous posts, I unofficially timed each plugin through a series of steps. First, I recomputed the Grasshopper definition. Second, I exported the file from Grasshopper. Third, I imported the file into Revit. Fourth, I updated a parameter and re-exported the file from Grasshopper. Finally, I re-imported the file into Revit to change that parameter value.
-<p style="text-align: center;"> <img class=" wp-image-889 aligncenter" alt="GH to Revit_Transfer Speed" src="http://collectivebim.com/wp-content/uploads/2013/05/GH-to-Revit_Transfer-Speed.jpg" width="626" height="566" /></p>
+<p style="text-align: center;"> <img class=" wp-image-889 aligncenter" alt="GH to Revit_Transfer Speed" src="/images/2013/05/GH-to-Revit_Transfer-Speed.jpg" width="626" height="566" /></p>
 
 <h3 style="text-align: left;">Speed Chart Summary:</h3>
 <ul>
@@ -135,7 +135,7 @@ One of the biggest and most apparent difference between them all are the speeds 
 
 <h3>File Size</h3>
 <p style="text-align: left;">Though File size does not seem to have a significant impact in the workflow speed, it does add an additional layer of management to the process.</p>
-<p style="text-align: left;"><img class=" wp-image-890 aligncenter" alt="GH to Revit_File Size" src="http://collectivebim.com/wp-content/uploads/2013/05/GH-to-Revit_File-Size.jpg" width="572" height="370" /></p>
+<p style="text-align: left;"><img class=" wp-image-890 aligncenter" alt="GH to Revit_File Size" src="/images/2013/05/GH-to-Revit_File-Size.jpg" width="572" height="370" /></p>
 
 <h3>File Size Chart Summary:</h3>
 <ul>

@@ -6,7 +6,7 @@ author: michael
 comments: true
 categories: [Analysis, Autodesk, Coordination, Excel, Issue Tracking, Jira, Navisworks, none, SMC, Solibri]
 ---
-<img class="aligncenter wp-image-1328 size-full" src="http://collectivebim.com/wp-content/uploads/2014/05/Issue-Tracking-e1399595905871.png" alt="Issue Tracking" width="779" height="334" />
+<img class="aligncenter wp-image-1328 size-full" src="/images/2014/05/Issue-Tracking-e1399595905871.png" alt="Issue Tracking" width="779" height="334" />
 
 More often than not, projects are now requiring that the design and construction models undergo a clash detection analysis. At the moment this process is manually performed after the modeling has occured. Hopefully modeling software will soon just include clash detection logic, so as we are modeling it can tell us “Hey, there is a giant beam here! Don’t place that duct here will you?” Until then we have to use specialised analysis software to help us find those areas where we did not coordinate properly with our consultants.
 

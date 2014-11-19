@@ -16,7 +16,7 @@ The images below show an example of a rippled Wall. The rippled surface was firs
 
 &nbsp;
 
-<a href="http://collectivebim.com/wp-content/uploads/2013/01/before.jpg"><img class="alignnone size-large wp-image-236" alt="before" src="http://collectivebim.com/wp-content/uploads/2013/01/before-840x465.jpg" width="840" height="465" /></a>
+<a href="/images/2013/01/before.jpg"><img class="alignnone size-large wp-image-236" alt="before" src="/images/2013/01/before-840x465.jpg" width="840" height="465" /></a>
 
 &nbsp;
 
@@ -36,6 +36,6 @@ Save the vmoptions file and restart Solibri. For the setting to take affect, you
 
 The images below show the result of editing the vmoptions file.
 
-<a href="http://collectivebim.com/wp-content/uploads/2013/01/after.jpg"><img class="alignnone size-large wp-image-237" alt="after" src="http://collectivebim.com/wp-content/uploads/2013/01/after-840x463.jpg" width="840" height="463" /></a>
+<a href="/images/2013/01/after.jpg"><img class="alignnone size-large wp-image-237" alt="after" src="/images/2013/01/after-840x463.jpg" width="840" height="463" /></a>
 
 &nbsp;

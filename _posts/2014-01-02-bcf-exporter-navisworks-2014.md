@@ -6,7 +6,7 @@ author: michael
 comments: true
 categories: [Analysis, BCF, BIM, CASE, Coordination, Interoperability, Navisworks]
 ---
-<p style="text-align: center;"><img class="size-full wp-image-1205 aligncenter" alt="Navisworks BCF Exporter" src="http://collectivebim.com/wp-content/uploads/2014/01/Navisworks-BCF-Exporter.png" width="160" height="160" /></p>
+<p style="text-align: center;"><img class="size-full wp-image-1205 aligncenter" alt="Navisworks BCF Exporter" src="/images/2014/01/Navisworks-BCF-Exporter.png" width="160" height="160" /></p>
 At CASE, we often use Navisworks in addition to Solibri Model Checker. If you use either of these tools, you are aware that they are primarily analysis tools used for coordination and quality control. The primary output of these two tools for coordination are in the form of reports. Navisworks can report clashes in the form of TXT, HTML, and XML. Solibri Model Checker is capable of reporting issues as PDF, XLS, RTF, and BCF. Of all of these formats between the two software, BCF is the only format that contains a camera view. A camera view is crucial to pinpointing an issue inside a model. Trying to find the same location from an image is extremely time consuming. What is missing from this picture? A BCF Exporter for Navisworks!
 
 &nbsp;

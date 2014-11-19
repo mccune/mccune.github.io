@@ -6,7 +6,7 @@ author: michael
 comments: true
 categories: [Analysis, BCF, BIM, Coordination, Issue Tracking, Navisworks, Revit, Solibri, Tekla]
 ---
-<img class="size-full wp-image-1336 aligncenter" src="http://collectivebim.com/wp-content/uploads/2014/07/BCFicon128.png" alt="BCF" width="128" height="128" />
+<img class="size-full wp-image-1336 aligncenter" src="/images/2014/07/BCFicon128.png" alt="BCF" width="128" height="128" />
 
 In the last post, I briefly talked about the importance of issue tracking, and the current limitations of issue tracking within modern AEC applications. Now I’d like to take a look at one of the proposed improvements to issue tracking, the BIM Collaboration Format, or BCF if you are cool. Advocates of OpenBIM argue that this format will allow us to more easily exchange and manage issues in AEC applications, but I’m not so sure…
 
@@ -36,9 +36,9 @@ The BCF schema is really straightforward. A “BCF” file is actually a filetyp
 
 &nbsp;
 <h5>Markup.bcf</h5>
-<h3><img class="alignnone size-full wp-image-1339" src="http://collectivebim.com/wp-content/uploads/2014/07/BCF-Schema.jpg" alt="BCF Schema" width="702" height="523" /></h3>
+<h3><img class="alignnone size-full wp-image-1339" src="/images/2014/07/BCF-Schema.jpg" alt="BCF Schema" width="702" height="523" /></h3>
 <h5>Viewpoint.bcfv</h5>
-<img class="alignnone size-full wp-image-1340" src="http://collectivebim.com/wp-content/uploads/2014/07/BCF-Schema_bcfv.jpg" alt="BCF Schema_bcfv" width="771" height="450" />
+<img class="alignnone size-full wp-image-1340" src="/images/2014/07/BCF-Schema_bcfv.jpg" alt="BCF Schema_bcfv" width="771" height="450" />
 
 &nbsp;
 
