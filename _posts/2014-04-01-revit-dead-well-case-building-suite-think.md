@@ -11,7 +11,7 @@ published: true
 
 &nbsp;
 <h2>Upset about Revit 2015?</h2>
-SAs the release of Revit 2015 still leaves a sour taste in people's mouths, many are wondering if they should jump ship and move to another platform that the developers are taking more seriously. Well before you go backwards by switching to ArchiCAD or worse SketchUp, might I suggest you take a serious leap forward with building information by utilizing the recently launched CASE Building Suite. We listened to your complaints and truly understand your needs for a robust platform. We are proud to announce the public release of these tools. Below you will find a description from the product website.
+As the release of Revit 2015 still leaves a sour taste in people's mouths, many are wondering if they should jump ship and move to another platform that the developers are taking more seriously. Well before you go backwards by switching to ArchiCAD or worse SketchUp, might I suggest you take a serious leap forward with building information by utilizing the recently launched CASE Building Suite. We listened to your complaints and truly understand your needs for a robust platform. We are proud to announce the public release of these tools. Below you will find a description from the product website.
 
 &nbsp;
 
